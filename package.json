@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "requests": "^0.3.0"
+  },
+  "name": "wheather-api",
+  "version": "1.0.0",
+  "description": "this is weather Api",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kashan Adnan",
+  "license": "ISC"
+}
